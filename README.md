@@ -29,73 +29,41 @@ If you find this project helpful, please consider **starring** ⭐ this reposito
 ## 🌐 Live Demo
 
 Check out the live portfolio here!
-[samadov.dev](https://samadov.dev)
+[your-demo-link.com](https://your-demo-link.com)
 
 ## 📸 Screenshots
 
-**Hero:**
-
-<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/hero.png?raw=true" alt="Hero" width="800" />
-
-**About:**
-
-<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="800" />
-
-**Get in touch:**
-
-<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/contact.png?raw=true" alt="Hero" width="800" />
+Add your own screenshots here to showcase your work!
 
 ## 🛠️ Technologies Used
 
-Here are the main technologies used in this project:
-
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/typescript.png?raw=true" alt="Next.js Logo" width="20" /> **TypeScript**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/next.webp?raw=true" alt="Next.js Logo" width="20" /> **Next.js 15**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/three.png?raw=true" alt="Three.js Logo" width="20" /> **Three.js**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/motion.png?raw=true" alt="Framer Motion Logo" width="20" /> **Framer Motion**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/lenis.png?raw=true" alt="Framer Motion Logo" width="20" /> **Lenis**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/tailwindcss.png?raw=true" alt="Tailwind CSS Logo" width="20" /> **Tailwind CSS**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/sass.png?raw=true" alt="SASS Logo" width="20" /> **SASS**
+- **TypeScript**
+- **Next.js 15**
+- **Three.js**
+- **Framer Motion**
+- **Lenis**
+- **Tailwind CSS**
+- **SASS**
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
-
 1. **Clone the repository**
-
    ```bash
-   git clone https://github.com/gamalsamadov/portfolio.git
+   git clone https://github.com/jagadish-uppula/3d_portfolio.git
    ```
 
 2. **Install dependencies**
-
    ```bash
-   cd portfolio
-   npm install
+   npm install --legacy-peer-deps
    ```
 
 3. **Run the development server**
-
    ```bash
    npm run dev
    ```
 
-4. **Open your browser**
-
-   Navigate to `http://localhost:3000` to view the project.
-
-## 💡 Customization
-
-You can customize this portfolio to make it your own! Modify components, update animations, or add new 3D models to make it unique.
-
-## 🤝 Contributing
-
-You can fix the repo and submit a pull request if you'd like to contribute. Let's make this project even better together! 🌟
-
 ## 📫 Contact
 
-Feel free to reach out to me if you have any questions or feedback!
-
-- Email: info@samadov.dev
-- Instagram: [@samadov.dev](https://www.instagram.com/janob.dev/)
-- LinkedIn: [En. Samadov J.](https://linkedin.com/in/gamalsamadov)
+- Email: your.email@example.com
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [yourusername](https://github.com/yourusername)
