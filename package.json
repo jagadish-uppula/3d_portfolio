@@ -9,8 +9,8 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@react-three/drei": "^9.117.0",
-		"@react-three/fiber": "^9.0.0-alpha.8",
+		"@react-three/drei": "^10.7.7",
+		"@react-three/fiber": "^9.5.0",
 		"@types/three": "^0.170.0",
 		"@vercel/speed-insights": "^1.1.0",
 		"classnames": "^2.5.1",
@@ -24,7 +24,7 @@
 		"sass": "^1.81.0",
 		"tailwind-merge": "^2.5.4",
 		"three": "^0.183.2",
-		"three-mesh-bvh": "^0.8.0"
+		"three-mesh-bvh": "^0.9.9"
 	},
 	"devDependencies": {
 		"@types/node": "^20",
